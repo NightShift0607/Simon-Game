@@ -67,7 +67,7 @@ footer > img {
 }
 
 footer > img:hover {
-  content: url("/images/logo2.png");
+  content: url("..//images/logo2.png");
 }
 
 a > i:hover {
